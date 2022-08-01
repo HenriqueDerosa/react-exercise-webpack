@@ -12,6 +12,13 @@
 **Information:**
 All the data shown in the app is from [TMDB api](https://www.themoviedb.org/).
 
+# Usage
+
+- run `yarn` or `npm install` to install all the dependencies
+- then run `yarn dev` or `npm run dev` to run the app in port `8080`
+
+The terminal will open `localhost:8080` automatically for you.
+
 # Technologies
 
 - **React** bundled with
